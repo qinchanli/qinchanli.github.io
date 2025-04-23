@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Detailed description of me
+title: Pre-prints
 ---
 
-In construction.
+[BudgetFusion: Perceptually-Guided Adaptive Diffusion Models](https://arxiv.org/abs/2412.05780) (Under Review)
