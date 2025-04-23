@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Detailed description of me
+title: Research Projects
 ---
 
 In construction.
