@@ -51,8 +51,8 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "qinchan_li@sfu.ca"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "qinchan_li@sfu.ca"
   twitter: QinchanLi
   ORCID: 0009-0004-2135-0269
   google-scholar: https://scholar.google.com/citations?user=Rd0QQTYAAAAJ&hl=en
